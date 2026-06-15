@@ -47,15 +47,6 @@ I am a results-driven **AI/ML Engineer** and **AI Educator** passionate about cr
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devika1209sinha&show_icons=true&theme=radical" alt="Devika's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devika1209sinha&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 🤝 Let's Connect!
 * 💼 **LinkedIn:** [linkedin.com/in/devika-sinha](https://linkedin.com/in/devika-sinha)
 * 📧 **Email:** [devikaa12sinha@gmail.com](mailto:devikaa12sinha@gmail.com)
