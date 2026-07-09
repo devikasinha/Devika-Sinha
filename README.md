@@ -2,8 +2,6 @@
 
 ### **AI/ML Engineer | AI Agent Developer | Computer Vision Enthusiast**
 
-
-
 I am a results-driven **AI/ML Engineer** , **AI Agent Dveloper** and **AI Educator** passionate about creating intelligent ecosystems. My expertise lies at the intersection of **Large Language Models (LLMs), Agentic workflows, Generative AI, and Advanced Computer Vision**. I enjoy bridging the gap between cutting-edge AI research and practical, real-world applications.
 
 ---
